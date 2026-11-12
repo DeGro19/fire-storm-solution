@@ -1,0 +1,5 @@
+build/
+build-*/
+*.pdf
+*.pcap
+compile_commands.json
